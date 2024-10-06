@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\assets\favicon.ico" />
+    <None Include="wwwroot\Content\assets\img\about\1.jpg" />
+    <None Include="wwwroot\Content\assets\img\about\2.jpg" />
+    <None Include="wwwroot\Content\assets\img\about\3.jpg" />
+    <None Include="wwwroot\Content\assets\img\about\4.jpg" />
+    <None Include="wwwroot\Content\assets\img\close-icon.svg" />
+    <None Include="wwwroot\Content\assets\img\header-bg.jpg" />
+    <None Include="wwwroot\Content\assets\img\logos\facebook.svg" />
+    <None Include="wwwroot\Content\assets\img\logos\google.svg" />
+    <None Include="wwwroot\Content\assets\img\logos\ibm.svg" />
+    <None Include="wwwroot\Content\assets\img\logos\microsoft.svg" />
+    <None Include="wwwroot\Content\assets\img\map-image.png" />
+    <None Include="wwwroot\Content\assets\img\navbar-logo.svg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\1.jpg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\2.jpg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\3.jpg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\4.jpg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\5.jpg" />
+    <None Include="wwwroot\Content\assets\img\portfolio\6.jpg" />
+    <None Include="wwwroot\Content\assets\img\team\1.jpg" />
+    <None Include="wwwroot\Content\assets\img\team\2.jpg" />
+    <None Include="wwwroot\Content\assets\img\team\3.jpg" />
+    <None Include="wwwroot\Content\css\styles.css" />
+    <None Include="wwwroot\Content\js\scripts.js" />
+  </ItemGroup>
+
+</Project>
